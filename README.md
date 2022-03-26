@@ -7,7 +7,7 @@
 	<a href="https://www.linkedin.com/in/moameneltouny"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	<a href="https://twitter.com/MoamenEltouny"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 	<br><br>
-	<a href="https://www.zend-zce.com/en/yellow-pages/ZEND033127"><img width="70" src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/zce-2017-php-155x155_0.png"></a>
+<!-- 	<a href="https://www.zend-zce.com/en/yellow-pages/ZEND033127"><img width="70" src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/zce-2017-php-155x155_0.png"></a> -->
 </p><br>
 
 
@@ -99,5 +99,5 @@
 </p>
 
 <p align="center">
-	<img alt="Nady Shalaby's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NadyShalaby&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+	<img alt="Nady Shalaby's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nadyshalaby&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 </p>
