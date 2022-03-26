@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/moameneltouny"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-	<a href="https://twitter.com/MoamenEltouny"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+	<a href="https://www.linkedin.com/in/nady-shalaby"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+	<a href="https://twitter.com/Taekunger"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 	<br><br>
 <!-- 	<a href="https://www.zend-zce.com/en/yellow-pages/ZEND033127"><img width="70" src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/zce-2017-php-155x155_0.png"></a> -->
 </p><br>
