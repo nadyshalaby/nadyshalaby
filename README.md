@@ -7,7 +7,7 @@
 	<a href="https://www.linkedin.com/in/nady-shalaby"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	<a href="https://twitter.com/Taekunger"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 	<br><br>
-	<a href="https://www.credly.com/badges/717546ee-34fb-40ca-9d34-e14956ee7c78"><img width="70" src="https://images.credly.com/size/340x340/images/206f12e1-33a5-4485-b1be-57e3a28b6ed1/Cloud_App_-_Master_Award_-_Stu_V2.png"></a>
+	<a href="https://www.credly.com/badges/717546ee-34fb-40ca-9d34-e14956ee7c78"><img width="150" src="https://images.credly.com/size/340x340/images/206f12e1-33a5-4485-b1be-57e3a28b6ed1/Cloud_App_-_Master_Award_-_Stu_V2.png"></a>
 </p><br>
 
 
